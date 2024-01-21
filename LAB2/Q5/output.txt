@@ -1,0 +1,4 @@
+The least element of the given unsorted array is: 2
+While the second least element is: 3
+The time taken to run the program is: 0.019 sec
+The program runs a for loop from 0 to n. Hence the Time Complexity is O(n).

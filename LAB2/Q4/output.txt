@@ -1,0 +1,2 @@
+The median of the unsorted array is: 51
+The time taken to run the program is: 0.013 sec
