@@ -45,7 +45,6 @@ int main(){
         cerr << "Error opening input file." << endl;
         return 1;
     }
-
     int n,m;
     inputFile >> n>> m;
     if(n>m){swap(n,m);}
