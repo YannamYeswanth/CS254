@@ -53,13 +53,12 @@ int main(){
     }
     int n;
     inputFile >> n;
-    // vector<int> a(n);s
     vector<vector<int>> v(n,vector<int>(n));
     
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < n; ++j) {
         inputFile >> v[i][j];
-        cout<<v[i][j]<<" ";
+        
         }
     }
     inputFile.close();
